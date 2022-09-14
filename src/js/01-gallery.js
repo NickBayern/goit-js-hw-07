@@ -33,3 +33,6 @@ function onGalleryClick(e) {
 }
 
 gallery.addEventListener('click', onGalleryClick);
+
+
+
